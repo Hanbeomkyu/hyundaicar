@@ -1,0 +1,25 @@
+*{margin:0; padding:0;}
+#wrap{width:100%; height:584.81px;}
+#header{height:71.81px; border-bottom:1px solid #ccc; margin:0 auto;}
+.logoBox{width:440px; height:71.81px; margin:0 auto;}
+#header h2{width:128px; height:32px; margin:19.92px 0;}
+#header h2 img{width:128px; height:17.55px;}
+#section .loginBox{width:440px; height:290px; margin:0 auto; padding:25px 20px;}
+#section .loginBox h3{color: #666;
+font-size: 12px; line-height: 15px; padding:0 0 7px;}
+#section .loginBox #userId{border: 1px solid #ced4da; height: 40px;padding: 10px 12px;font-size: 12px; box-sizing: border-box; width:400px; margin-bottom:5px; color:#ccc;}
+#section .loginBox #userPW{border: 1px solid #ced4da; height: 40px;padding: 10px 12px; font-size: 12px; box-sizing: border-box; width:400px; margin-bottom:5px; color:#ccc;}
+#section .loginBox #login{height: 55px; padding: 0; font-size: 18px; font-family: Nanum Gothic, sans-serif, Roboto, Helvetica, Arial; font-weight: 600; background-color: #3387bd; width:400px; border:none; color:#fff;}
+.idSearch{width:400px; height:68px; padding-top:20px; text-align:center;}
+.idSearch a{text-decoration:none; color: #006ca4; font-family: Nanum Gothic, sans-serif, Roboto, Helvetica, Arial; font-weight: 600; font-size:13px; letter-spacing:-1px;}
+.innerBox{width:440px; height:114.4px; margin:0 auto; padding:25px 20px;}
+.innerBox h3{color: #666;
+font-size: 12px; line-height: 15px; padding:0 0 7px;}
+.imgbox1{width:102px; height:43px; padding:4px; float:left;}
+.imgbox2{width:102px; height:43px; padding:4px; float:left;}
+.imgbox3{width:102px; height:43px; padding:4px; float:left;}
+.imgbox4{width:102px; height:43px; padding:4px; float:left;}
+#footer{border-top:1px solid #ccc; text-align:center;}
+#footer .footerbox{width:400px; height:60px; margin:0 auto; padding:25px 0 10px;}
+#footer .footerbox a{text-decoration:none; color: #006ca4; font-family: Nanum Gothic, sans-serif, Roboto, Helvetica, Arial; font-weight: 600; font-size:13px;}
+#footer .footerbox2{color: #666; font-size: 11px;font-family: Nanum Gothic, sans-serif, Roboto, Helvetica, Arial;}
